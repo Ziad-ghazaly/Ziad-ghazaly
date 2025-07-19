@@ -48,7 +48,7 @@ I’m actively exploring:
 - Research collaborations in applied deep learning  
 - Internships or contracts with impactful tech companies
 
-📩 Feel free to [email me](mailto:ziadghazaly01@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/your-link-here)
+📩 Feel free to [email me](mailto:ziadghazaly01@gmail.com) or [connect on LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/))
 
 ---
 
