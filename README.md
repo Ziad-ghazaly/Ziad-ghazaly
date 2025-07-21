@@ -49,6 +49,10 @@ I combine practical development with a research mindset, constantly refining mod
 📫 [Email me](mailto:ziadghazaly01@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
 
+![GitHub Followers](https://img.shields.io/github/followers/Ziad-ghazaly?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Ziad-ghazaly?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Ziad-ghazaly&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 > _“Make it work, make it right, make it fast.” – Kent Beck_
