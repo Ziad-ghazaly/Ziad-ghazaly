@@ -32,15 +32,6 @@ I combine practical development with a research mindset, constantly refining mod
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ziad-ghazaly&show_icons=true&theme=gruvbox&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-ghazaly&layout=compact&theme=gruvbox&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Ziad-ghazaly&theme=gruvbox&hide_border=true)
-
-[![Ziad's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ziad-ghazaly&theme=gruvbox)](https://github.com/Ziad-ghazaly)
 
 ---
 
