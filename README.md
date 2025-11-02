@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ziad Ghazaly
 
-🎓 Computer Systems Engineer | 🧠 Machine Learning & Deep Learning Specialist  
-📍 Giza, Egypt | 📬 ziadghazaly01@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
+ Computer Systems Engineer |  Junior Data Scientist | BCI & Deep Learning Researcher 
+  Kuwati, Salmiya |  ziadghazaly01@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
 
 ---
 
@@ -11,7 +11,7 @@ I combine practical development with a research mindset, constantly refining mod
 
 ---
 
-## 🚀 Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -33,18 +33,9 @@ I combine practical development with a research mindset, constantly refining mod
 ![Android Studio](https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
----
 
-## 🎯 2025 Goals
 
-- 🧪 Continue contributing to applied research in deep learning and neuroscience  
-- 🌍 Build impactful, production-ready AI systems for healthcare and education  
-- 🛠️ Land remote roles or freelance contracts in AI/ML/Data Science  
-- 🎓 Collaborate on publications and real-world open-source tools
-
----
-
-## 🤝 Let’s Connect
+## Let’s Connect
 
 📫 [Email me](mailto:ziadghazaly01@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
