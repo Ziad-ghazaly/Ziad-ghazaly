@@ -12,7 +12,6 @@ exposure to ML model development and deployment. Familiar with the full SDLC and
 expanding knowledge across AI, data, and software systems. Motivated, adaptable, and eager to contribute. 
 
 ---
-
 ## Tech Stack & Tools
 
 ### Languages
@@ -49,8 +48,6 @@ expanding knowledge across AI, data, and software systems. Motivated, adaptable,
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android--Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
 
 ## Let’s Connect
 
