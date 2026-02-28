@@ -1,13 +1,15 @@
 # 👋 Hello, I'm Ziad Ghazaly
 
-**Computer Systems Engineer | Junior Data Scientist | BCI & Deep Learning Researcher**  
+**Computer Systems Engineer | Junior Data Scientist | AI Engineer | BCI & Deep Learning Researcher**  
 Kuwait, Salmiya | ziadghazaly01@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
 
 ---
 
-I’m a **data-driven engineer** passionate about designing intelligent systems that deliver real-world impact. My work spans **medical imaging**, **NLP**, **real-time detection**, and **brain-computer interfaces**, with a focus on **deployable**, **research-backed**, and **user-oriented** ML solutions.  
-
-I bridge the gap between **research and production**, optimizing models for **performance**, **accuracy**, and **scalability**. From training transformers to deploying YOLOv8-powered mobile applications, I aim to make AI **actionable** and **accessible**.
+Computer Systems Engineering graduate with passion for building practical technology solutions. Solid foundation in 
+software development, data engineering concepts (ETL/ELT, data pipelines, data warehousing), and machine learning 
+fundamentals. Hands-on experience using Python and SQL for data processing, analysis, and application development, with 
+exposure to ML model development and deployment. Familiar with the full SDLC and cloud-based tools, and continuously 
+expanding knowledge across AI, data, and software systems. Motivated, adaptable, and eager to contribute. 
 
 ---
 
@@ -20,6 +22,14 @@ I bridge the gap between **research and production**, optimizing models for **pe
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### Data & Data Engineering
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-2D9CDB?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-00BFFF?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -28,11 +38,8 @@ I bridge the gap between **research and production**, optimizing models for **pe
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 ### Cloud & MLOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Web & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
