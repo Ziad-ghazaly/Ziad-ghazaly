@@ -53,7 +53,7 @@ expanding knowledge across AI, data, and software systems. Motivated, adaptable,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black&labelColor=black)
+![Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=google-colab&logoColor=F9AB00)
 
 ### Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
