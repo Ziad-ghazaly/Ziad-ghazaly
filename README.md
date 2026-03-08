@@ -43,7 +43,7 @@ expanding knowledge across AI, data, and software systems. Motivated, adaptable,
 ### Cloud & MLOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-6C3EC1?style=for-the-badge&logo=onnx&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-444444?style=for-the-badge&logo=onnx&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Web & Deployment
