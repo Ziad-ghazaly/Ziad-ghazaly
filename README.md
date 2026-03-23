@@ -1,17 +1,8 @@
 # 👋 Hello, I'm Ziad Ghazaly
 
-**Computer Systems Engineer | Junior Data Scientist | AI Engineer | BCI & Deep Learning Researcher**  
-Kuwait, Salmiya | ziadghazaly01@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
+**Junior Data Scientist | AI Engineer | BCI & Deep Learning Researcher**  
+| ziadghazaly01@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
 
----
-
-Computer Systems Engineering graduate with passion for building practical technology solutions. Solid foundation in 
-software development, data engineering concepts (ETL/ELT, data pipelines, data warehousing), and machine learning 
-fundamentals. Hands-on experience using Python and SQL for data processing, analysis, and application development, with 
-exposure to ML model development and deployment. Familiar with the full SDLC and cloud-based tools, and continuously 
-expanding knowledge across AI, data, and software systems. Motivated, adaptable, and eager to contribute. 
-
----
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
