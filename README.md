@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Ziad Ghazaly
 
-**Junior Data Scientist | AI Engineer | BCI & Deep Learning Researcher**  
-| ziadghazaly01@gmail.com | [LinkedIn](https://www.linkedin.com/in/ziad-ghazaly-a6828b283/)
+## Hardworking Human Being
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
