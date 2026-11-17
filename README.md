@@ -17,9 +17,6 @@
 
 ### What I Build
 
-```
-```
-
 - **Agents & orchestration:** tool-use loops, multi-agent design, human-in-the-loop approval steps, structured outputs
 - **Retrieval:** structure-aware chunking, metadata filtering, hybrid search, reranking, Arabic document processing
 - **Evaluation:** architecture benchmarking, retrieval and faithfulness evaluation
