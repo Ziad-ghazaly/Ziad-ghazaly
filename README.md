@@ -53,12 +53,6 @@ class ZiadGhazaly:
 |---|---|---|
 | Microsoft Certified: Machine Learning Operations Engineer Associate (AI-300) | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-gb/ZiadGhazaly-8761/EF2810FF017EC7D6?sharingId) |
 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-gb/ZiadGhazaly-8761/DB3D229FCB980497?sharingId) |
-| Machine Learning Model Development | Databricks Academy | Jan 2026 |
-| Advanced Machine Learning Operations | Databricks Academy | Jan 2026 |
-| DevOps to MLOps Bootcamp: Build & Deploy ML Systems | Packt | [Verify](https://coursera.org/verify/WUGXDQ57ALTC) |
-| Introduction to FastAPI and Backend Development Fundamentals | Packt | [Verify](https://coursera.org/verify/2IZXDSST59FB) |
-| Machine Learning Specialization | DeepLearning.AI & Stanford | [Verify](https://www.coursera.org/account/accomplishments/specialization/A3R2JGNVEQAW) |
-| AI and Machine Learning Algorithms and Techniques | Microsoft | [Verify](https://coursera.org/verify/ZHSSDNGEEJRS) |
 
 ---
 
@@ -125,11 +119,6 @@ class ZiadGhazaly:
 ---
 
 ### GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ziad-ghazaly&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-ghazaly&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ziad-ghazaly&hide_border=true&theme=github-dark-blue" alt="GitHub streak" />
