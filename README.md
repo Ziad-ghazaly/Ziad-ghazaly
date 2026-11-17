@@ -35,11 +35,6 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/ZiadGhazaly-8761/DB3D229FCB980497?sharingId"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals_(AI--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Azure AI Fundamentals (AI-900)" /></a>
 </p>
 
-| Certification | Issuer | Credential |
-|---|---|---|
-| Microsoft Certified: Machine Learning Operations Engineer Associate (AI-300) | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-gb/ZiadGhazaly-8761/EF2810FF017EC7D6?sharingId) |
-| Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | [Verify](https://learn.microsoft.com/api/credentials/share/en-gb/ZiadGhazaly-8761/DB3D229FCB980497?sharingId) |
-
 ---
 
 ### Tech Stack
