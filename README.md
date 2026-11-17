@@ -28,7 +28,7 @@
 
 ---
 
-### Certifications
+### Professional Certifications
 
 <p>
   <a href="https://learn.microsoft.com/api/credentials/share/en-gb/ZiadGhazaly-8761/EF2810FF017EC7D6?sharingId"><img src="https://img.shields.io/badge/Microsoft_Certified-MLOps_Engineer_Associate_(AI--300)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified: Machine Learning Operations Engineer Associate (AI-300)" /></a>
