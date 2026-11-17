@@ -17,18 +17,7 @@
 
 ### What I Build
 
-```python
-class ZiadGhazaly:
-    role = "AI Engineer"
-    based_in = "Kuwait"
-    builds = [
-        "Agentic RAG systems with citation grounding",
-        "AI agents with tool calling and MCP integration",
-        "Multi-agent coding workflows with test gates",
-        "End-to-end LLM delivery: ingestion -> retrieval -> evaluation -> deployment",
-    ]
-    focus = ["context engineering", "retrieval quality", "LLM evaluation", "LLMOps"]
-    languages = {"Arabic": "native", "English": "professional"}
+```
 ```
 
 - **Agents & orchestration:** tool-use loops, multi-agent design, human-in-the-loop approval steps, structured outputs
